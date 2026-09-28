@@ -50,7 +50,7 @@ We implement modern industry-standard encryption protocols (HTTPS/TLS) for data 
 
 You have full control over your data:
 * **Export & Review:** You can view and edit all your tasting notes and cellar bottles directly inside the app.
-* **Account Deletion:** You may permanently delete your account and all associated personal data at any time from within the app settings or by contacting us at **support@mywinemap.app**. Upon deletion, your cloud data is permanently purged.
+* **Account Deletion:** You may permanently delete your account and all associated personal data at any time from within the app settings or by contacting us at **monet_official@monetgcg.com**. Upon deletion, your cloud data is permanently purged.
 
 ---
 
@@ -69,5 +69,5 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 ### 8. Contact Us
 
 If you have questions, feedback, or data privacy requests, please contact us at:  
-**Email:** `support@mywinemap.app`  
+**Email:** `monet_official@monetgcg.com`  
 **Developer:** Boyu Wu
